@@ -17,6 +17,6 @@ Below are the insights we want to explore in this project.
 2. Question 2: How should we tailor marketing and communication strategies to customer behaviors?
 3. Question 3: How much can we spend on acquiring new customers?
 
-Link Report: https://spangle-freon-887.notion.site/SQL-Project-3f1b598231e7463fb720ea46ac17ca88  
+Link Report: https://spangle-freon-887.notion.site/SQL-Project-3f1b598231e7463fb720ea46ac17ca88    
 
 
