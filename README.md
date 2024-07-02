@@ -17,4 +17,6 @@ Below are the insights we want to explore in this project.
 2. Question 2: How should we tailor marketing and communication strategies to customer behaviors?
 3. Question 3: How much can we spend on acquiring new customers?
 
+Link Report: https://docs.google.com/document/d/1wP5IuqpYm3SkMBKO0aW7KDma8DonCk6Bb3uvvpCr-Ug/edit?hl=vi  
+
 
