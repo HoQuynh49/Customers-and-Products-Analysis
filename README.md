@@ -27,6 +27,6 @@ Vintage cars and motorcycles are the priority for restocking in the top 10 Low-S
 
 We know that each customer brings us £39.039 (net profit). To determine how much to spend for acquiring a new customer, it also depends on the costs of sales and marketing. However, we can see the potential of each customer's profit so we can make a business plan for getting new more customers every quarter/year/month.
 
-Link Report: https://www.notion.so/SQL-Project-3f1b598231e7463fb720ea46ac17ca88?pvs=4  
+Link Report: https://www.notion.so/SQL-Project-3f1b598231e7463fb720ea46ac17ca88?pvs=4
 
 
